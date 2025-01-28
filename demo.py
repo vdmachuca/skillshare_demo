@@ -1,3 +1,3 @@
 print('greetings')
 
-print('what do you think?)
+print('what do you think?')
